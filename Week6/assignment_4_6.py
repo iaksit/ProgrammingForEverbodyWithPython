@@ -21,11 +21,10 @@ except:
 def computepay(h,r):
 	pay = float()
 	if h <=40:
-    	pay = h * r
+    		pay = h * r
 	else:
-    	pay = 40 * r  + ((h-40) * r * 1.5)
-    
-    return pay
+    		pay = 40 * r  + ((h-40) * r * 1.5)
+    	return pay
 
 #print pay
 pay = computepay(h,r)
