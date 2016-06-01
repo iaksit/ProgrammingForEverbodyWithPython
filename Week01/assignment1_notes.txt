@@ -3,3 +3,7 @@ You should use the command line to execute the Python program you wrote in the t
 Please do *not* use the IDLE Python Shell, the Python Interpreter (>>>), or a shortcut in your text editor to run the code. 
 Later in the class when we start reading files, we will need to be able to run Python programs from particular directories. 
 See the videos for details. This assignment is not graded. 
+
+#Please upload an image of text editor showing your Python code with single print statement (not print “hello word”)
+
+#Please upload an image showing your Python code running in the command line or terminal. Please include both the python command as well as the output from the program.
